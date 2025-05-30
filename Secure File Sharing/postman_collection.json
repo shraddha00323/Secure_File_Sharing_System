@@ -1,0 +1,20 @@
+
+---
+
+## 🧪 `postman_collection.json` – Placeholder
+
+Create this manually in Postman and export your working tests. Include:
+- Signup & login
+- Email verification flow
+- Upload (Ops)
+- List/download (Client)
+
+---
+
+✅ Your backend is now complete with all key files.  
+Would you like me to now generate:
+- Dockerfile + deployment setup?
+- Frontend or Swagger documentation?
+- Database migration using Alembic?
+
+Let me know!
